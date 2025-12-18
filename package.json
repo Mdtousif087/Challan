@@ -1,0 +1,12 @@
+{
+  "name": "challan-api",
+  "version": "1.0.0",
+  "description": "Vehicle Challan Check API",
+  "main": "api.js",
+  "scripts": {
+    "start": "node api.js"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
